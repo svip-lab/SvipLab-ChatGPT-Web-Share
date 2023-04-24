@@ -4,6 +4,10 @@
 
 ## 使用说明
 
+### 项目地址
+
+http://107.172.82.170:8080
+
 ### 申请使用权限
 
 [【腾讯文档】SvipLab-ChatGPT-Web-Share](https://docs.qq.com/sheet/DWmdISUJkT2pBSGZt?tab=BB08J2)
