@@ -10,7 +10,7 @@ http://107.172.82.170:8080
 
 ### 申请使用权限
 
-[【腾讯文档】SvipLab-ChatGPT-Web-Share](https://docs.qq.com/sheet/DWmdISUJkT2pBSGZt?tab=BB08J2)
+[【腾讯文档】SvipLab-ChatGPT-Web-Share](https://docs.qq.com/sheet/DWmdISUJkT2pBSGZt?tab=BB08J2)，申请后管理员会删除文档中的邮箱等个人信息，更改为已授权状态
 
 ### 根据分配账号密码登陆系统
 
