@@ -6,7 +6,7 @@
 
 ### 申请使用权限
 
-[【腾讯文档】SvipLab-ChatGPT-Web-Share 账号申请](https://docs.qq.com/sheet/DWmdISUJkT2pBSGZt?tab=BB08J2)
+[【腾讯文档】SvipLab-ChatGPT-Web-Share](https://docs.qq.com/sheet/DWmdISUJkT2pBSGZt?tab=BB08J2)
 
 ### 根据分配账号密码登陆系统
 
