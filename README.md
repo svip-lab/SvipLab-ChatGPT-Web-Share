@@ -16,7 +16,7 @@
 
 目前由于Open AI官方限制，GPT-4 模型使用有次数限制（每3小时25条），为保证使用体验，希望大家优先选择default（GPT-3.5）模型
 
-![screenshot](./images.png)
+![screenshot](image.png)
 
 ## 声明
 
